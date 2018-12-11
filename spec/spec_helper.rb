@@ -9,3 +9,7 @@ require_relative '../collections_practice'
 RSpec.configure do |config|
   # config here
 end
+
+def sort_array_asc(array)
+  array.collect 
+end 
